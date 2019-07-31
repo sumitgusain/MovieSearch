@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+*{
+	padding: 2px;
+}
+.navbar-heading{
+	color: white;
+}
+
+#data .col-md-3 .well{
+	
+	height: 360px;
+}
+#data .col-md-3 img{
+	
+	height: 240px;
+}
+.row img{
+	width: 100%;
+	height: 390px;
+}
+h2,h1,p,li,.navbar-heading,button,a,input{
+	font-family: 'Anton', sans-serif;
+}
+.well{
+	background-color: #e9ecef;
+}
