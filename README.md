@@ -1,0 +1,3 @@
+# MovieSearch
+Simple Website where you can easily search for movies information.
+Language use:Html,css,ajax for http call,js.....
